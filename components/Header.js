@@ -45,7 +45,7 @@ const Header = () => {
         <SearchIcon className="hidden cursor-pointer h-6 w-6 sm:inline" />
         <p className="hidden lg:inline">Kids</p>
         <NotificationsNoneIcon className="h-6 w-6" />
-        <Link href="/account">
+        <Link href="/signup">
           <img
             src="https://rb.gy/g1pwyx"
             alt=""

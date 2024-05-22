@@ -2,7 +2,7 @@
 
 import Banner from "@/components/Banner";
 import Image from "next/image";
-import requests from "../uitls/request";
+import requests from "../../uitls/request";
 import { useEffect, useState } from "react";
 import Row from "@/components/Row";
 
